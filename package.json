@@ -1,0 +1,16 @@
+{
+  "name": "javascript-checkout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
